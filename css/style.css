@@ -1,0 +1,14 @@
+body{
+   text-align: center;
+   background-color: goldenrod;
+   color: chocolate;
+   font: normal 20px arial,helvetica,sans-serif;
+}
+.frm{
+   text-align: center;
+   border-color:lightgoldenrodyellow;
+   border-style:dotted;
+   margin: 0;padding: 0;
+}
+
+ 
